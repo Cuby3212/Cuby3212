@@ -1,24 +1,21 @@
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+La gata vtuber más rara y extraña de todo internet.
+Creadora de contenido, me encanta el chocolate.
 
-  La gata vtuber más rara y extraña de todo internet. 
-  Creadora de contenido, me encanta el chocolate. 
+ஓ๑♡๑ஓ
+Mis redes
+ஓ๑♡๑ஓ
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+https://linktr.ee/Cuby3212
 
-          ╔═════ஓ๑♡๑ஓ═════╗
-                Mis redes
-          ╚═════ஓ๑♡๑ஓ═════╝
+☾ ⋆*･ﾟ:⋆*:✧*Sobre mí⋆.*: ⋆*･ﾟ: .⋆ ☾
 
-      https://linktr.ee/Cuby3212
+♡ She⁄Her 🌸
+♡ Trans 🏳️‍⚧️
+♡ Bisexual 💕
+♡ LGBT 🏳️‍🌈
+♡ TDAH y TAS 🍂
+♡ Furry 🦊
 
-      ☾ ⋆*･ﾟ:⋆*:✧*Sobre mí⋆.*: ⋆*･ﾟ: .⋆ ☾
+✉️ Business ✉️
 
-            ♡ She⁄Her 🌸
-            ♡ Trans 🏳️‍⚧️
-            ♡ Bisexual 💕
-            ♡ LGBT 🏳️‍🌈
-            ♡ TDAH y TAS 🍂
-
-━━━━━━━━ ✉️ Business ✉️ ━━━━━━━━
-
-    cuby3212contact＠gmail․com
+cuby3212contact@gmail.com
