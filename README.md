@@ -1,13 +1,32 @@
-# Holi :3
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9f01f56e-ab7f-41bb-81e4-ee36780a6ccf" alt="Banner sin bordes" width="100%">
+</div>
 
-🩷 Soy una chica española apasionada de los ordenadores, el hardware y los videojuegos. Aunque no me dedico a programar como tal, utilizo GitHub para seguir proyectos que me gustan y descargar aplicaciones o programas :3c 🩷
+<br>
 
-## Una poquilla de info de mi persona uwu
-* **Hardware y montaje de ordenadores:** Me encanta la informática y todo lo relacionado con el montaje de ordenadores.
-* **Gaming:** Mis horas se van principalmente en mis juegos favoritos, *Geometry Dash* y *VRChat*.
-* **Mis gustos:** Fuera de la tecnología, me encanta el anime, adoro el café y formo parte de la comunidad furry.
+<table align="center" style="border: none;">
+  <tr>
+    <td width="35%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/51dcfc77-81a0-4418-a9e5-fd5cc13616e9" alt="Avatar" width="250px">
+    </td>
+    <td width="65%" valign="top">
+      <h1>¡Holi! Soy Cuby :3</h1>
+      <p><b>Chica española (she/her)</b></p>
+      <p>Este es mi rincón personal. No me dedico profesionalmente a la programación, pero utilizo mi perfil para seguir proyectos que me interesan, descubrir herramientas y descargar aplicaciones.</p>
+      
+      <h3>🌸 Un poquito sobre mí</h3>
+      <ul>
+        <li>🎮 <b>Juegos:</b> Mis juegos favoritos son <i>Geometry Dash</i> y <i>VRChat</i>.</li>
+        <li>🐾 <b>Mis gustos:</b> Me apasiona la informática, montar ordenadores, el anime y soy furry.</li>
+      </ul>
 
----
-*Este es mi perfil, que lo uso para ver proyectos y demás cositas que me puedan gustar.*
+      <br>
 
-*🏳️‍⚧️ Trans rights are human rights 🏳️‍⚧️*
+      <div align="center">
+        <i>🏳️‍⚧️ Trans rights are human rights 🏳️‍⚧️</i>
+        <br><br>
+        <b>🌐 <a href="https://cuby3212.github.io/">Visita mi página web principal para ver mis redes</a></b>
+      </div>
+    </td>
+  </tr>
+</table>
