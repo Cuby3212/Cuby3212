@@ -1,16 +1,13 @@
-## Hi there 👋
+# Holi :3
 
-<!--
-**Cuby3212/Cuby3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🩷 Soy una chica española apasionada de los ordenadores, el hardware y los videojuegos. Aunque no me dedico a programar como tal, utilizo GitHub para seguir proyectos que me gustan y descargar aplicaciones o programas :3c 🩷
 
-Here are some ideas to get you started:
+## Una poquilla de info de mi persona uwu
+* **Hardware y montaje de ordenadores:** Me encanta la informática y todo lo relacionado con el montaje de ordenadores.
+* **Gaming:** Mis horas se van principalmente en mis juegos favoritos, *Geometry Dash* y *VRChat*.
+* **Mis gustos:** Fuera de la tecnología, me encanta el anime, adoro el café y formo parte de la comunidad furry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Este es mi perfil, que lo uso para ver proyectos y demás cositas que me puedan gustar.*
+
+*🏳️‍⚧️ Trans rights are human rights 🏳️‍⚧️*
