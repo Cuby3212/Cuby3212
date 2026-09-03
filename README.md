@@ -8,6 +8,8 @@
 <p><b>Chica española (she/her)</b></p>
 <p>Este es mi rincón personal. No me dedico profesionalmente a la programación, pero utilizo mi perfil para seguir proyectos que me interesan, descubrir herramientas y descargar aplicaciones.</p>
 
+<br>
+
 <h3>🌸 Un poquito sobre mí</h3>
 <ul>
   <li>🎮 <b>Juegos:</b> Mis juegos favoritos son <i>Geometry Dash</i> y <i>VRChat</i>.</li>
@@ -18,8 +20,30 @@
 
 <div align="center">
   <i>🏳️‍⚧️ Trans rights are human rights 🏳️‍⚧️</i>
-  <br><br>
-  <b>🌐 <a href="https://cuby3212.github.io/">Visita mi página web principal para ver mis redes</a></b>
+</div>
+
+<br>
+
+<hr>
+
+<br>
+
+<div align="center">
+  <a href="https://www.twitch.tv/cuby3212"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://kick.com/Cuby3212"><img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black"></a>
+  <a href="https://youtube.com/@Cuby3212"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://twitter.com/cubyvtuber"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <br>
+  <a href="https://bsky.app/profile/cuby3212.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/Cuby_3212"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@cuby3212"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.instagram.com/cuby3212"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <b>🌐 <a href="https://cuby3212.github.io/">Visita mi página web principal para ver todos mis enlaces</a></b>
 </div>
 
 <br>
