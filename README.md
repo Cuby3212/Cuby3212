@@ -38,12 +38,7 @@
   <a href="https://www.reddit.com/user/Cuby_3212"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="https://www.tiktok.com/@cuby3212"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.instagram.com/cuby3212"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <b>🌐 <a href="https://cuby3212.github.io/">Visita mi página web principal para ver todos mis enlaces</a></b>
+  <a href="https://github.com/Cuby3212/cuby3212.github.io"><img src="https://img.shields.io/badge/Todos_mis_enlaces-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <br>
