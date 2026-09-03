@@ -29,16 +29,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.twitch.tv/cuby3212"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://kick.com/Cuby3212"><img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black"></a>
-  <a href="https://youtube.com/@Cuby3212"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://twitter.com/cubyvtuber"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <br>
-  <a href="https://bsky.app/profile/cuby3212.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/Cuby_3212"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@cuby3212"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.instagram.com/cuby3212"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/Cuby3212/cuby3212.github.io"><img src="https://img.shields.io/badge/Todos_mis_enlaces-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Cuby3212/cuby3212.github.io"><img src="https://img.shields.io/badge/🔗_Todas_mis_redes-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <br>
