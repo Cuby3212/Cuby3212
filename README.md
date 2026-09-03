@@ -35,7 +35,7 @@
 <br>
 
 <details>
-  <summary align="center"><b>🎨 Haz clic aquí para ver todas las referencias de mi Avatar</b></summary>
+  <summary align="center"><b>🎨 Haz clic aquí para ver todas las referencias de mi avatar</b></summary>
   <br>
   <div align="center">
     <a href="https://github.com/user-attachments/assets/51dcfc77-81a0-4418-a9e5-fd5cc13616e9" target="_blank">
