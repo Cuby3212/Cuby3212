@@ -12,7 +12,7 @@
 
 <h3>🌸 Un poquito sobre mí</h3>
 <ul>
-  <li>🎮 <b>Juegos:</b> Mis juegos favoritos son <i>Geometry Dash</i> y <i>VRChat</i>.</li>
+  <li>🎮 <b>Juegos:</b> Mis juegos favoritos son <i>Geometry Dash</i>, <i>Mario Kart Wii</i> y <i>VRChat</i>.</li>
   <li>🐾 <b>Mis gustos:</b> Me apasiona la informática, montar ordenadores, el anime y soy furry.</li>
 </ul>
 
