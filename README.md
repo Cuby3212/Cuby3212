@@ -2,24 +2,39 @@
   <img src="https://github.com/user-attachments/assets/9f01f56e-ab7f-41bb-81e4-ee36780a6ccf" alt="Banner sin bordes" width="100%">
 </div>
 
-<br>
+<h1 align="center">Holi, soy Cuby3212 :3 </h1>
 
-<h1>¡Holi! Soy Cuby :3</h1>
-<p><b>Chica española (she/her)</b></p>
-<p>Este es mi rincón personal. No me dedico profesionalmente a la programación, pero utilizo mi perfil para seguir proyectos que me interesan, descubrir herramientas y descargar aplicaciones.</p>
-
-<br>
-
-<h3>🌸 Un poquito sobre mí</h3>
-<ul>
-  <li>🎮 <b>Juegos:</b> Mis juegos favoritos son <i>Geometry Dash</i>, <i>Mario Kart Wii</i> y <i>VRChat</i>.</li>
-  <li>🐾 <b>Mis gustos:</b> Me apasiona la informática, montar ordenadores, el anime y soy furry.</li>
-</ul>
+<div align="center">
+  <b>(she/her)</b> | <i>Amante del hardware y el anime</i>
+  <br><br>
+  Este es mi rincón personal, utilizo mi perfil para seguir proyectos que me interesan principalmente.
+</div>
 
 <br>
 
 <div align="center">
-  <i>🏳️‍⚧️ Trans rights are human rights 🏳️‍⚧️</i>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎮 Mis juegos favoritos</h3>
+        Geometry Dash<br>
+        Mario Kart Wii<br>
+        VRChat
+      </td>
+      <td align="center" width="50%">
+        <h3>🩷 Mis gustos</h3>
+        Montaje de ordenadores<br>
+        Arte furry y fursuits<br>
+        Tomar café
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <i>🏳️‍⚧️️ Trans rights are human rights 🏳️‍⚧️</i>
 </div>
 
 <br>
