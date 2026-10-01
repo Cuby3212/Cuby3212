@@ -24,12 +24,6 @@
 
 <br>
 
-<hr>
-
-<br>
-
-<br>
-
 <details>
   <summary align="center"><b>🎨 Haz clic aquí para ver la referencia de mi modelo fursona VTuber</b></summary>
   <br>
