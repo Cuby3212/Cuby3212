@@ -28,10 +28,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Cuby3212/cuby3212.github.io"><img src="https://img.shields.io/badge/🔗_Todas_mis_redes-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
 <br>
 
 <details>
